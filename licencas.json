@@ -1,0 +1,25 @@
+{
+  "licencas": [
+    {
+      "login": "junior",
+      "nome_cliente": "Junior - Supermercado Zé Maria",
+      "data_expiracao": "2026-12-31",
+      "ativo": true,
+      "observacao": "Plano mensal - R$200/mês"
+    },
+    {
+      "login": "maria",
+      "nome_cliente": "Maria - Padaria Bom Pão",
+      "data_expiracao": "2026-06-30",
+      "ativo": true,
+      "observacao": "Plano trimestral"
+    },
+    {
+      "login": "operador",
+      "nome_cliente": "Operador Demo",
+      "data_expiracao": "2027-01-01",
+      "ativo": true,
+      "observacao": "Conta de demonstração"
+    }
+  ]
+}
