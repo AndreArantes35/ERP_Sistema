@@ -5,21 +5,24 @@
       "nome_cliente": "Junior - Supermercado Zé Maria",
       "data_expiracao": "2026-12-31",
       "ativo": true,
-      "observacao": "Plano mensal - R$200/mês"
+      "senha_hash": "fa9a08d21d3e5b627126e30d90cd0edfd68d9233b41df922e50a2247ac3016ff",
+      "observacao": "Plano mensal - R$200/mês | senha: junior123"
     },
     {
       "login": "maria",
       "nome_cliente": "Maria - Padaria Bom Pão",
       "data_expiracao": "2026-06-30",
       "ativo": true,
-      "observacao": "Plano trimestral"
+      "senha_hash": "626e3c805e77eeb472c42c6be607be2af7ac5c08fd7050f278e0330fe81abf57",
+      "observacao": "Plano trimestral | senha: maria123"
     },
     {
       "login": "operador",
       "nome_cliente": "Operador Demo",
       "data_expiracao": "2027-01-01",
       "ativo": true,
-      "observacao": "Conta de demonstração"
+      "senha_hash": "1725165c9a0b3698a3d01016e0d8205155820b8d7f21835ca64c0f81c728d880",
+      "observacao": "Conta de demonstração | senha: operador123"
     }
   ]
 }
