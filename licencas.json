@@ -3,7 +3,7 @@
     {
       "login": "junior",
       "nome_cliente": "Junior - Supermercado Zé Maria",
-      "data_expiracao": "2026-12-31",
+      "data_expiracao": "2026-05-31",
       "ativo": true,
       "senha_hash": "289160db0d9f39f9ae1754c4ec9c16f90b50e32e09c5fb5481ae642b3d3d1a36",
       "observacao": "Plano mensal - R$200/mês | senha: junior123"
