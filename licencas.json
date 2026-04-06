@@ -2,11 +2,11 @@
   "licencas": [
     {
       "login": "junior",
-      "nome_cliente": "Junior - Supermercado Zé Maria",
-      "data_expiracao": "2026-04-02",
+      "nome_cliente": "Riper Distribuidora",
+      "data_expiracao": "2026-04-10",
       "ativo": true,
-      "senha_hash": "289160db0d9f39f9ae1754c4ec9c16f90b50e32e09c5fb5481ae642b3d3d1a36",
-      "observacao": "Plano mensal - R$200/mês | senha: junior123"
+      "senha_hash": "fa9a08d21d3e5b627126e30d90cd0edfd68d9233b41df922e50a2247ac3016ff",
+      "observacao": "Plano mensal - R$150/mês | senha: junior123"
     },
     {
       "login": "maria",
